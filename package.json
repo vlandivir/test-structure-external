@@ -1,5 +1,9 @@
 {
-  "name": "test-structure-external",
+  "name": "@vlandivir/test-structure-external",
+  "repository": "github:vlandivir/test-structure-external",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
